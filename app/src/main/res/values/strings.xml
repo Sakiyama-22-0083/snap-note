@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Snap Note</string>
+    <string name="capture">Capture</string>
+    <string name="go_back">Back</string>
+    <string name="no_text">No text</string>
+    <string name="save">Save</string>
+    <string name="go_list">List</string>
+    <string name="untitled">Untitled</string>
+</resources>

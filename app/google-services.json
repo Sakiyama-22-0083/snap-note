@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "225784783934",
+    "firebase_url": "https://quicknote-32ea3-default-rtdb.firebaseio.com",
+    "project_id": "quicknote-32ea3",
+    "storage_bucket": "quicknote-32ea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225784783934:android:9d017d3d2d15d1e1005d6f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuB6LIV1PNPiedyi1RMRUzjqBocaPbGZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
